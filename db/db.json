@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "fullname": "dâdadada",
+      "phone": "0101010101",
+      "email": "tobaotrung331@gmail.com",
+      "age": "22",
+      "gender": "Nam",
+      "id": 3
+    },
+    {
+      "fullname": "dâdadada",
+      "phone": "0101010101",
+      "email": "tobaotrung1312@gmail.com",
+      "age": "22",
+      "gender": "Nam",
+      "id": 4
+    },
+    {
+      "fullname": "1223",
+      "phone": "03682723311111",
+      "email": "bibi.13h12@gmail.com",
+      "age": "33",
+      "gender": "Nữ",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
